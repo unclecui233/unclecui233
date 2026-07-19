@@ -83,15 +83,6 @@
 
 ---
 
-# Contribution Snake
-
-<p align="center">
-
-<img src="./assets/github-snake-dark.svg"/>
-
-</p>
-
----
 
 # Featured Projects
 
